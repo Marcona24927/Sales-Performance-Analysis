@@ -1,0 +1,9 @@
+Net Revenue = SUMX(sales, sales[units_sold] * sales[unit_price] * (1 - sales[discount_pct]))
+Orders = DISTINCTCOUNT(sales[order_id])
+Units Sold = SUM(sales[units_sold])
+Average Order Value = DIVIDE([Net Revenue], [Orders])
+Average Discount = AVERAGE(sales[discount_pct])
+
+-- Suggested visuals: cards for Net Revenue, Orders, Units Sold, Average Order Value;
+-- line chart by order_date month; bars by region, category and sales_rep.
+-- Slicers: order_date, region, category, sales_rep.
