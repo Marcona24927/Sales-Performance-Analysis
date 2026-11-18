@@ -1,0 +1,25 @@
+order_id,order_date,region, sales_rep,product,category,units_sold,unit_price,discount_pct
+S001,2025-01-05,North,Ada,Laptop,Electronics,3,850,0.05
+S002,2025-01-08,South,David,Monitor,Electronics,5,220,0.10
+S003,2025-01-12,East,Grace,Desk,Furniture,4,180,0
+S004,2025-01-18,West,John,Chair,Furniture,8,95,0.05
+S005,2025-02-02,North,Ada,Keyboard,Accessories,12,35,0
+S006,2025-02-07,South,David,Laptop,Electronics,2,850,0.08
+S007,2025-02-11,East,Grace,Monitor,Electronics,6,220,0.05
+S008,2025-02-19,West,John,Desk,Furniture,3,180,0.10
+S009,2025-03-03,North,Ada,Chair,Furniture,10,95,0.05
+S010,2025-03-09,South,David,Keyboard,Accessories,20,35,0.05
+S011,2025-03-15,East,Grace,Laptop,Electronics,1,850,0
+S012,2025-03-21,West,John,Monitor,Electronics,4,220,0.10
+S013,2025-04-04,North,Ada,Desk,Furniture,5,180,0.05
+S014,2025-04-10,South,David,Chair,Furniture,7,95,0
+S015,2025-04-16,East,Grace,Keyboard,Accessories,15,35,0.05
+S016,2025-04-23,West,John,Laptop,Electronics,2,850,0.10
+S017,2025-05-02,North,Ada,Monitor,Electronics,7,220,0.05
+S018,2025-05-08,South,David,Desk,Furniture,2,180,0
+S019,2025-05-14,East,Grace,Chair,Furniture,9,95,0.05
+S020,2025-05-25,West,John,Keyboard,Accessories,18,35,0
+S021,2025-06-01,North,Ada,Laptop,Electronics,2,850,0.05
+S022,2025-06-09,South,David,Monitor,Electronics,3,220,0
+S023,2025-06-17,East,Grace,Desk,Furniture,6,180,0.10
+S024,2025-06-26,West,John,Chair,Furniture,11,95,0.05
